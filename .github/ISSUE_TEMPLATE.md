@@ -1,4 +1,4 @@
-Please ensure that you are using the latest version of Buford and its dependencies before reporting an issue. Use the `-u` flag with `go get` as described in the [README](https://github.com/RobotsAndPencils/buford/blob/master/README.md#installation).
+Please ensure that you are using the latest version of Buford and its dependencies before reporting an issue. Use the `-u` flag with `go get` as described in the [README](https://github.com/sunShuShu/buford/blob/master/README.md#installation).
 
 NOTE: please don't include your device token or certificate password in issues.
 

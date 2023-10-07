@@ -3,7 +3,7 @@ package certificate_test
 import (
 	"testing"
 
-	"github.com/RobotsAndPencils/buford/certificate"
+	"github.com/sunShuShu/buford/certificate"
 )
 
 func TestValidCert(t *testing.T) {
